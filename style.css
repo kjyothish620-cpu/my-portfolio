@@ -120,12 +120,12 @@ h1,h2,h3{
     transform: scale(1.05);
     transition: 0.5s;
 }
-.resume-btn{
+.Resume-btn{
     display: block;
     text-align: right;
     margin: 20px;
 }
-.resume-btn{
+.Resume-btn{
     display: block;
     margin-right: 20px;
 }
